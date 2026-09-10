@@ -134,7 +134,8 @@ text
 
 **Текущее содержимое таблицы:**
 
-![[Pasted image 20260910141454.png]]
+<img width="1011" height="348" alt="image" src="https://github.com/user-attachments/assets/f2f7fa64-5d05-44e3-b6f0-b9261ac3a8cd" />
+
 
 
 |id|title|ceiling|phone|
